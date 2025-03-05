@@ -43,7 +43,7 @@ int main(){
      //Aviso de Carta Cadastrada com Sucesso
      printf("\nCarta cadastrada com sucesso!\n");
      
-     //lê a partir do local especificado pelo qual geralmente é a entrada do teclado
+     //Limpeza do Buffe r- tecla 
      getchar();
 
     //Cadastro da Carta 2 - Entrada de Dados via scanf
