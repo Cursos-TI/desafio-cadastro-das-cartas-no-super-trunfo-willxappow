@@ -31,6 +31,7 @@ int main()
     scanf("%d", &menu_principal);
     getchar();
 
+    //Menu Principal
     switch (menu_principal)
     {
 
@@ -149,7 +150,7 @@ int main()
             printf("\nEscolha uma opção..: ");
             scanf("%d", &escolha_atributo1);
             getchar();
-            // Escolha do Primeiro Atributo
+            // Escolha do Segundo Atributo
             printf("\n*******************************************************************************************\n");
             printf("******* OK! Agora Escolha o [Segundo] atributo da Carta 01 que você deseja Comparar *******\n");
             printf("*******************************************************************************************\n\n");
