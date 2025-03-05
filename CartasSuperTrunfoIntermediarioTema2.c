@@ -5,7 +5,7 @@
 int main()
 {
 
-    // Desafio Mestre  - Tema 1
+    // Desafio Mestre  - Tema 2
     // Declaração de Variáveis
     // Variáveis de Carta 01 e Carta 02
     char nome_pais1[50], nome_pais2[50];
